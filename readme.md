@@ -1,4 +1,4 @@
 # sample website
 
 this is a sample website. *dangerous*
-[add a link](www.github.com)
+[add a link](https://github.com/savman330) to my repository
